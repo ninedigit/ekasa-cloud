@@ -20,7 +20,7 @@ Klientské knižnice pre prístup k eKasa Cloud API:
 | - | --------- | --------- |
 | ![PHP](images/php_64x64.png) | PHP | [ekasa-cloud-clientphp](https://github.com/ninedigit/ekasa-cloud-clientphp) |
 | ![JS](images/javascript_64x64.png) | JavaScript | *Dostupné na vyžiadanie* |
-| ![Csharp](images/csharp_64x64.png) | C# | *Dostupné na vyžiadanie* |
+| ![Csharp](images/csharp_64x64.png) | C# (.NET Standard 2.1) | *Dostupné na vyžiadanie* |
 
 ## Podpora
 
